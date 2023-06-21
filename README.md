@@ -4,7 +4,7 @@
 [REST Assured](https://rest-assured.io/) is a Java library that provides a domain-specific language for writing powerful, maintainable tests for RESTful APIs
 
 ## Tests
-Example is based on free fake API https://jsonplaceholder.typicode.com/ and covers basic positive scenarios to validate core API requests:
+Example is based on [free fake API](https://jsonplaceholder.typicode.com/) and covers basic positive scenarios to validate core API requests:
 
 ```
 Feature: Testing Comments Function
